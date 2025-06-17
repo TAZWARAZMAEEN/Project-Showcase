@@ -3,6 +3,10 @@
 Welcome to my project showcase! Below are some of the GitHub repositories I've worked on:
 
 ---
+## 🤖📚 AI Study Buddy (Fitz)
+- **Repo:** [AI_Presenter_Fitz](https://github.com/TAZWARAZMAEEN/AI_Presenter_Fitz)
+- **Description:** An interactive AI assistant study buddy for slide presentations that provides summarized or in-depth explanations, flashcards, chatbot-based Q&A, and voice narration for users who prefer listening over reading.
+
 
 ## 🔍 Text Classification
 - **Repo:** [Text_Classification](https://github.com/TAZWARAZMAEEN/Text_Classification)
