@@ -3,7 +3,7 @@
 Welcome to my project showcase! Below are some of the GitHub repositories I've worked on:
 
 ---
-## 🤖📚 AI Study Buddy (ExplainR)
+## 🤖📚 AI Study Buddy
 - **Repo:** [AI_Presenter_Fitz](https://github.com/TAZWARAZMAEEN/AI-STUDYBUDDY)
 - **Description:** An interactive AI assistant study buddy for slide presentations that provides summarized or in-depth explanations, flashcards, chatbot-based Q&A, and voice narration for users who prefer listening over reading.
 
