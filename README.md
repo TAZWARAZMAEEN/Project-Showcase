@@ -33,7 +33,7 @@ Welcome to my project showcase! Below are some of the GitHub repositories I've w
 ---
 
 ## 🛡️ Threat Intelligence Automation
-- **Repo:** [Threat-Intelligence-Automation-Project](https://github.com/TAZWARAZMAEEN/Threat-Intelligence-Automation-Project)
+- **Repo:** [Threat-Intelligence-Automation-Project](https://github.com/s4002485/Data-Science-Project---Threat-Intelligence-Automation-Project)
 - **Description:** Automates analysis and classification of SIEM alerts using AI.
 
 ---
