@@ -3,35 +3,27 @@
 Welcome to my project showcase! Below are some of the GitHub repositories I've worked on:
 
 ---
-🧮 SQL & Data Engineering
+## 🧮 SQL & Data Engineering
 
-Technologies: SQL Server
+**🛠 Technologies:** SQL Server  
 
-Description: Designed and implemented an end-to-end Data Warehouse and Analytics solution following the Medallion Architecture (Bronze, Silver, Gold).
+**📌 Overview:**  
+Designed and implemented an **end-to-end Data Warehouse & Analytics solution** following the **Medallion Architecture (Bronze, Silver, Gold)**.
 
-🔹 Key SQL Work
+### 🔹 Key SQL Work
+- Built ETL pipelines to ingest **ERP & CRM CSV data** into SQL Server  
+- Cleaned, standardized, and enriched data in the **Silver layer**  
+- Designed **Star Schema models** (Fact & Dimension tables) in the **Gold layer**  
+- Wrote advanced SQL queries using:
+  - `JOIN`, `CTE`, `WINDOW FUNCTIONS`
+  - `GROUP BY`, `HAVING`, `CASE WHEN`
+- Developed analytical queries for business insights
 
-Built ETL pipelines to ingest ERP & CRM CSV data into SQL Server
+### 📊 Analytics Use Cases
+- Customer behavior analysis  
+- Product performance tracking  
+- Sales trend reporting  
 
-Cleaned, standardized, and enriched data in the Silver layer
-
-Designed Star Schema models (Fact & Dimension tables) in the Gold layer
-
-Wrote advanced SQL queries using:
-
-JOIN, CTE, WINDOW FUNCTIONS
-
-GROUP BY, HAVING, CASE WHEN
-
-Analytical queries for business insights
-
-🔹 Analytics Use Cases
-
-Customer behavior analysis
-
-Product performance tracking
-
-Sales trend reporting
 
 ---
 ## 🤖📚 AI Study Buddy
