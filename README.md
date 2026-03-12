@@ -26,6 +26,37 @@ Designed and implemented an **end-to-end Data Warehouse & Analytics solution** f
 
 
 ---
+
+## 📊 Business Intelligence Dashboard (Power BI)
+
+- **Technologies:** Power BI, Power Query, DAX, Data Modeling  
+
+**📌 Overview:**  
+Developed an **interactive Business Intelligence dashboard** using the **AdventureWorks dataset** to monitor KPIs, analyze regional sales performance, and identify high-value customers.
+
+### 🔹 Dashboard Features
+- Built a **relational data model** using **Fact and Dimension tables (Star Schema)**  
+- Created **Power Query transformations** to clean and reshape raw datasets  
+- Implemented advanced **DAX measures** including:
+  - `CALCULATE`
+  - `FILTER`
+  - `RELATED`
+  - Time intelligence functions
+- Designed interactive visuals including:
+  - KPI Cards
+  - Sales Trend Line Charts
+  - Regional Sales Maps
+  - Drill-down reports
+  - Top-N product analysis
+
+### 📈 Business Insights
+- Identified **high-value customers**
+- Compared **regional sales performance**
+- Analyzed **product category trends**
+- Highlighted **revenue growth patterns**
+
+---
+
 ## 🤖📚 AI Study Buddy
 - **Repo:** [AI_Presenter_Fitz](https://github.com/TAZWARAZMAEEN/AI-STUDYBUDDY)
 - **Description:** An interactive AI assistant study buddy for slide presentations that provides summarized or in-depth explanations, flashcards, chatbot-based Q&A, and voice narration for users who prefer listening over reading.
