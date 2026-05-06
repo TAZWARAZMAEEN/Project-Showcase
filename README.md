@@ -4,7 +4,8 @@ Welcome to my project showcase! Below are some of the GitHub repositories I've w
 
 ---
 ## 🧮 SQL & Data Engineering
-
+- **Repo:** [SQL Data Warehouse](https://github.com/TAZWARAZMAEEN/SQL_DATA_WAREHOUSE_PROJECT)
+- - **Repo:** [SQL-Data-Analytics](https://github.com/TAZWARAZMAEEN/SQL-Data-Analytics-Project)
 **🛠 Technologies:** SQL Server  
 
 **📌 Overview:**  
