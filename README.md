@@ -59,9 +59,9 @@ Developed an **interactive Business Intelligence dashboard** using the **Adventu
 
 ---
 
-## 🤖📚 AI Study Buddy
-- **Repo:** [AI_Presenter_Fitz](https://github.com/TAZWARAZMAEEN/AI-STUDYBUDDY)
-- **Description:** An interactive AI assistant study buddy for slide presentations that provides summarized or in-depth explanations, flashcards, chatbot-based Q&A, and voice narration for users who prefer listening over reading.
+## 🛡️ Threat Intelligence Automation
+- **Repo:** [Threat-Intelligence-Automation-Project](https://github.com/s4002485/Data-Science-Project---Threat-Intelligence-Automation-Project)
+- **Description:** Automates analysis and classification of SIEM alerts using AI.
 
 
 ## 🔍 Text Classification
@@ -88,12 +88,11 @@ Developed an **interactive Business Intelligence dashboard** using the **Adventu
 
 ---
 
-## 🛡️ Threat Intelligence Automation
-- **Repo:** [Threat-Intelligence-Automation-Project](https://github.com/s4002485/Data-Science-Project---Threat-Intelligence-Automation-Project)
-- **Description:** Automates analysis and classification of SIEM alerts using AI.
+## 🤖📚 AI Study Buddy
+- **Repo:** [AI_Presenter_Fitz](https://github.com/TAZWARAZMAEEN/AI-STUDYBUDDY)
+- **Description:** An interactive AI assistant study buddy for slide presentations that provides summarized or in-depth explanations, flashcards, chatbot-based Q&A, and voice narration for users who prefer listening over reading.
 
 ---
 
 ## 🧑‍💼 About Me
 I'm a data science student passionate about AI, NLP, and cybersecurity applications. Let’s connect on [LinkedIn](#)!
-
